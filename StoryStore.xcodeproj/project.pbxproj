@@ -24,6 +24,7 @@
 		689C60A41A5F4D1B00E96D29 /* QSTodoDataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 689C60A21A5F4D1B00E96D29 /* QSTodoDataModel.xcdatamodeld */; };
 		A31A89F51BF3FD8600C7B656 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A31A89F41BF3FD8600C7B656 /* Launch Screen.storyboard */; };
 		A3BBD7791C05158D00DD0DB0 /* MicrosoftAzureMobile.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A3BBD7781C05158D00DD0DB0 /* MicrosoftAzureMobile.framework */; };
+		F3A165721CDF5C6C0027710F /* hero-girl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F3A165711CDF5C6C0027710F /* hero-girl.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,10 @@
 		689C60A31A5F4D1B00E96D29 /* QSTodoDataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = QSTodoDataModel.xcdatamodel; sourceTree = "<group>"; };
 		A31A89F41BF3FD8600C7B656 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		A3BBD7781C05158D00DD0DB0 /* MicrosoftAzureMobile.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MicrosoftAzureMobile.framework; sourceTree = "<group>"; };
+		F3A165711CDF5C6C0027710F /* hero-girl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hero-girl.jpg"; sourceTree = "<group>"; };
+		F3A165BD1CDFAA280027710F /* libxml2.2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.2.dylib; path = ../../../../usr/lib/libxml2.2.dylib; sourceTree = "<group>"; };
+		F3A165BF1CDFAA360027710F /* AZSClient.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AZSClient.framework; path = ../blobLearning/AZSClient.framework; sourceTree = "<group>"; };
+		F3A165C81CDFAF650027710F /* Azure Storage Client Library.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Azure Storage Client Library.framework"; path = "../../Desktop/Azure Storage Client Library.framework"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +93,9 @@
 		03D1001C16EC579A0005A1A9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				F3A165C81CDFAF650027710F /* Azure Storage Client Library.framework */,
+				F3A165BF1CDFAA360027710F /* AZSClient.framework */,
+				F3A165BD1CDFAA280027710F /* libxml2.2.dylib */,
 				A3BBD7781C05158D00DD0DB0 /* MicrosoftAzureMobile.framework */,
 				689C609E1A5F3F4D00E96D29 /* CoreData.framework */,
 				03D1001D16EC579A0005A1A9 /* UIKit.framework */,
@@ -100,6 +108,7 @@
 		03D1002316EC579A0005A1A9 /* StoryStore */ = {
 			isa = PBXGroup;
 			children = (
+				F3A165711CDF5C6C0027710F /* hero-girl.jpg */,
 				689C60A21A5F4D1B00E96D29 /* QSTodoDataModel.xcdatamodeld */,
 				03D1004816EC58490005A1A9 /* QSTodoService.h */,
 				03D1004916EC58490005A1A9 /* QSTodoService.m */,
@@ -186,6 +195,7 @@
 				03D1006516ED41D20005A1A9 /* connected57.png in Resources */,
 				03D1006616ED41D20005A1A9 /* connected72.png in Resources */,
 				03D1006716ED41D20005A1A9 /* connected114.png in Resources */,
+				F3A165721CDF5C6C0027710F /* hero-girl.jpg in Resources */,
 				A31A89F51BF3FD8600C7B656 /* Launch Screen.storyboard in Resources */,
 				03D1006816ED41D20005A1A9 /* connected144.png in Resources */,
 			);

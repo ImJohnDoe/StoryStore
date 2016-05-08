@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "79357FA8D5954E5114F3CE94BB82EDAF48327435",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D0A253D1DADCE80FC532536B6959E8E0D41BC330" : 0,
+    "79357FA8D5954E5114F3CE94BB82EDAF48327435" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "53412B15-6F11-4094-B041-5AD743D8118D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D0A253D1DADCE80FC532536B6959E8E0D41BC330" : "blobLearning\/",
+    "79357FA8D5954E5114F3CE94BB82EDAF48327435" : "StoryStore\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StoryStore",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StoryStore.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ImJohnDoe\/StoryStore.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "79357FA8D5954E5114F3CE94BB82EDAF48327435"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Azure\/azure-storage-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0A253D1DADCE80FC532536B6959E8E0D41BC330"
+    }
+  ]
+}
