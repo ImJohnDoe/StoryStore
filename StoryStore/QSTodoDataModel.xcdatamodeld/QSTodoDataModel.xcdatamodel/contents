@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9057" systemVersion="15B42" minimumToolsVersion="Xcode 4.3">
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15E65" minimumToolsVersion="Xcode 4.3">
     <entity name="MS_TableConfig" syncable="YES">
         <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
         <attribute name="key" optional="YES" attributeType="String" syncable="YES"/>
@@ -29,7 +29,7 @@
         <attribute name="version" optional="YES" attributeType="String" syncable="YES"/>
     </entity>
     <elements>
-        <element name="MS_TableConfig" positionX="-72" positionY="18" width="128" height="30"/>
+        <element name="MS_TableConfig" positionX="-72" positionY="18" width="128" height="120"/>
         <element name="MS_TableOperationErrors" positionX="16" positionY="-54" width="128" height="30"/>
         <element name="MS_TableOperations" positionX="-72" positionY="54" width="128" height="30"/>
         <element name="TodoItem" positionX="-153" positionY="-81" width="128" height="135"/>
